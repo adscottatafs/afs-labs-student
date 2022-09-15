@@ -1,4 +1,4 @@
---new random comment for Lab 6
+--new comment for Lab 6
 -- PostgreSQL database dump
 --
 
